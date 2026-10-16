@@ -62,6 +62,13 @@ const DACAS = {
   publications: [
 
     // ── Under review ──
+
+    { type:"conference", status:"review",
+      title:"Port-Hamiltonian Koopman Operator Synthesis for Mechanical Systems",
+      authors:"@@ME@@R. Singh@@/ME@@, A. Singh, @@ME@@J. Keshavan@@/ME@@",
+      venue:"", year:"2026", doi:"" },
+
+    
     { type:"journal", status:"review",
       title:"SACK: Safe Active Continual Koopman Learning for Uncertain Systems with Contractive Guarantees",
       authors:"C. K. Sah, @@ME@@R. Singh@@/ME@@, @@ME@@J. Keshavan@@/ME@@",
@@ -97,7 +104,7 @@ const DACAS = {
     { type:"conference", badge:"jb-green",
       title:"Generalized Moment-Based Koopman Formalism for Robust Control of Euler-Lagrangian Systems",
       authors:"@@ME@@R. Singh@@/ME@@, A. S. Chauhan, C. S. Kashyap, @@ME@@J. Keshavan@@/ME@@",
-      venue:"ICRA 2026", year:"2026", doi:"" },
+      venue:"ICRA 2026", year:"2026", doi:"10.1109/ICRA57385.2026.11696957" },
 
     { type:"conference", badge:"jb-green",
       title:"IP3C: Integrated Path Planning and Predictive Control for UAV Swarm Navigation in Cluttered Environments",
